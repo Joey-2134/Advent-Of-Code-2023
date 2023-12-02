@@ -55,5 +55,6 @@ public class Main2 {
             sum += Integer.parseInt(concatNum);
         }
         System.out.println(sum);
+        scanner.close();
     }
 }
